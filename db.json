@@ -1,0 +1,40 @@
+{
+    "paises": [
+      {
+        "nombre": "España",
+        "capital": "Madrid",
+        "poblacion": 47100396,
+        "idioma_principal": "Español"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "capital": "Washington D.C.",
+        "poblacion": 331449281,
+        "idioma_principal": "Inglés"
+      },
+      {
+        "nombre": "China",
+        "capital": "Pekín",
+        "poblacion": 1444216107,
+        "idioma_principal": "Chino mandarín"
+      },
+      {
+        "nombre": "India",
+        "capital": "Nueva Delhi",
+        "poblacion": 1393409038,
+        "idioma_principal": "Hindi"
+      },
+      {
+        "nombre": "Brasil",
+        "capital": "Brasilia",
+        "poblacion": 213993437,
+        "idioma_principal": "Portugués"
+      },
+      {
+        "nombre": "Rusia",
+        "capital": "Moscú",
+        "poblacion": 145912025,
+        "idioma_principal": "Ruso"
+      }
+    ]
+  }  
